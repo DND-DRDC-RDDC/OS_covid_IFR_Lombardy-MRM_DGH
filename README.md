@@ -3,7 +3,7 @@ Estimating the infection fatality rate of Covid-19 using demographics data and d
 
 All code within this repository is published under the MIT license (see LICENSE file).  Original code from https://github.com/gianlucaRinaldi/covid_IFR_Lombardy Copyright (c) 2020 Gianluca Rinaldi. This code was published in relation to https://doi.org/10.1101/2020.04.18.20070912 "An empirical estimate of the infection fatality rate of COVID-19 from the first Italian outbreak" by Gianluca Rinaldi and Matteo Paradisi. 
 
-Additions and alterations made by Matthew R. MacLeod are Copyright (c) Her Majesty the Queen in Right of Canada, Department of National Defence, 2021. The additional code and alterations are published in support of Matthew R. MacLeod, D. Gregory Hunter, "The Impact of Age Demographics on Interpreting and Applying Population-Wide Infection Fatality Rates for COVID-19," INFORMS Journal on Applied Analytics (Articles in Advance)  https://doi.org/10.1287/inte.2020.1070.
+Additions and alterations made by Matthew R. MacLeod are Copyright (c) Her Majesty the Queen in Right of Canada, Department of National Defence, 2021. The additional code and alterations are published in support of Matthew R. MacLeod, D. Gregory Hunter, "The Impact of Age Demographics on Interpreting and Applying Population-Wide Infection Fatality Rates for COVID-19," INFORMS Journal on Applied Analytics (Vol. 51, No. 3)  https://doi.org/10.1287/inte.2020.1070.
 
 If using a Mac, rjags installation might not work immediately: please download and install JAGS from 
 https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/Mac%20OS%20X/ 
